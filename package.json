@@ -1,0 +1,18 @@
+{
+  "name": "php-image-gallery",
+  "version": "1.0.0",
+  "description": "PHP/TypeScript image gallery with Tailwind CSS v4",
+  "scripts": {
+    "build": "npm run build:ts && npm run build:css",
+    "build:ts": "tsc",
+    "build:css": "npx @tailwindcss/cli -i ./src/styles.css -o ./dist/styles.css",
+    "watch": "concurrently \"tsc --watch\" \"npx @tailwindcss/cli -i ./src/styles.css -o ./dist/styles.css --watch\"",
+    "dev": "npm run watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "concurrently": "^8.2.2",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.4.0"
+  }
+}
