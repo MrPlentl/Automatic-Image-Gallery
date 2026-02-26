@@ -60,7 +60,7 @@ require_once './sections/head.php';
 
                 <h2 class="about-heading">Credits</h2>
                 <p class="about-text">
-                    This gallery was built and is maintained by <strong>ThaBamboozler</strong>.
+                    This gallery was built and is maintained by <strong>Brandon Plentl aka ThaBamboozler</strong>.
                     Built with PHP, TypeScript, and Tailwind CSS v4.
                 </p>
             </div>

@@ -3,7 +3,7 @@
     ══════════════════════════════════════ -->
     <nav class="site-nav" id="site-nav">
         <div class="nav-inner">
-            <a href="/" class="nav-logo">My Ignored Gallery</a>
+            <a href="/" class="nav-logo">GALLERY</a>
             <div class="nav-links">
                 <a href="/about.php" class="nav-link">About</a>
             </div>

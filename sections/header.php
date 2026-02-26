@@ -33,7 +33,7 @@ if (isset($galleryName) && $galleryName !== '') {
                 </div>
                 <h1 class="hero-title"><?= htmlspecialchars(str_replace('-', ' ', $galleryName)) ?></h1>
             <?php else: ?>
-                <h1 class="hero-title">Inspired Images</h1>
+                <h1 class="hero-title">My Galleries</h1>
             <?php endif; ?>
             <p class="hero-subtitle">A curated collection</p>
         </div>

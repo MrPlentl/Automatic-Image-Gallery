@@ -132,4 +132,4 @@ root/
 
 ## Credits
 
-Created by **ThaBamboozler**
+Created by **Brandon Plentl aka ThaBamboozler**
