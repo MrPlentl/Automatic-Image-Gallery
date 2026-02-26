@@ -2,7 +2,7 @@
 galleries/
 
 # Logs
-logs
+logs/
 
 # Dependency directories
 node_modules/
